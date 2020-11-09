@@ -1,12 +1,12 @@
-title:              "미아플래닛"
+title:              "Mia Planet"
 tagline:            "취미 탐방기"
 email:              "yyh1417@naver.com"
 description:        "차와 추리물을 찾아 탐방하는 유유자적 취미생활 라이프"
 author:             "Mia"
 baseurl:            "/"
-url:                "https://magorany.github.io"
+url:                "https://mangorany.github.io/"
 locale:             "ko_KR"
-thumbnail:          "/img/background_2.png"
+thumbnail:          "img/background.png"
 
 # Social Profiles
 twitter_username:   twitter_username
