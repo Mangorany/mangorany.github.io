@@ -1,12 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "미아플래닛"
+tagline:            "취미 탐방기"
+email:              "yyh1417@naver.com"
+description:        "차와 추리물을 찾아 탐방하는 유유자적 취미생활 라이프"
+author:             "Mia"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://magorany.github.io"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/background_2.png"
 
 # Social Profiles
 twitter_username:   twitter_username
