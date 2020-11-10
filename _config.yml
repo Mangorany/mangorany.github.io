@@ -8,6 +8,10 @@ url:                "https://mangorany.github.io/"
 locale:             "ko_KR"
 thumbnail:          "img/background.png"
 
+# 블로그 disqus shortname
+disqus:
+shortname: mangorany
+
 # Social Profiles
 twitter_username:   twitter_username
 instagram_username: instagram_username
