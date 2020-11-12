@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mangorany.github.io//sitemap.xml
+
+DaumWebMasterTool:41547812891af34f365a00b1931345ae2dfc4713a40f4036a4d2ec88b8abdd13:AjqBsM5N9OwqdGhcHVi0YA==
