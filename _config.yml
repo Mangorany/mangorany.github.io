@@ -1,6 +1,6 @@
 title:              "Mia Planet"
 tagline:            "취미 탐방기"
-email:              "yyh1417@naver.com"
+email:              "younghyunryu33@gmail.com"
 description:        "차와 추리물을 찾아 탐방하는 유유자적 취미생활 라이프"
 author:             "Mia"
 baseurl:            "/"
@@ -12,10 +12,8 @@ disqus:
 shortname: mangorany
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
+instagram_username: instagram_mia._.planet
 facebook_username:  facebook_username
-linkedin_username:  linkedin_username
 
 # Build settings
 markdown:           kramdown
